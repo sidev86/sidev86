@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/_someyear" target="blank"><img src="https://img.shields.io/twitter/follow/_someyear?logo=twitter&style=for-the-badge" alt="_someyear" /></a> </p>
 
-- 💻 Current Status      **Student at 42 Florence**
+- 💻 Current Status :      **    Student at 42 Florence**
 
-- 🤔 Currently learning      **C programming, Unity Engine**
+- 🤔 Currently learning :      **    C programming, Unity Engine**
 
 - 🕹️ My Games      [https://someyear.itch.io/](https://someyear.itch.io/)
 
 - 🎶 My Music      [https://soundcloud.com/someyear](https://soundcloud.com/someyear)
 
-- 📫 Contact me      **samir.ibrahim@outlook.it**
+- 📫 Contact me :      **    samir.ibrahim@outlook.it**
 
-- 🤡 Fun fact      **I do voice impressions**
+- 🤡 Fun fact :      **    I do voice impressions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
