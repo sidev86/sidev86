@@ -1,21 +1,23 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo16493
+Fork on GitHub4631
 <h1 align="center">💻 🕹️ Welcome to my Github Page</h1>
-<h3 align="center">I code, make games and music</h3>
+<h3 align="center">Coder / Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidev86&label=Profile%20views&color=0e75b6&style=flat" alt="sidev86" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_someyear" target="blank"><img src="https://img.shields.io/twitter/follow/_someyear?logo=twitter&style=for-the-badge" alt="_someyear" /></a> </p>
+- 💻 Current Status : **Student at 42 Florence**
 
-- 💻 Current Status :      **    Student at 42 Florence**
+- 🤔 Currently learning **C programming, Unity Engine**
 
-- 🤔 Currently learning :      **    C programming, Unity Engine**
+- 🕹️ My Games : [https://someyear.itch.io/](https://someyear.itch.io/)
 
-- 🕹️ My Games      [https://someyear.itch.io/](https://someyear.itch.io/)
+- 🎶 My Music : [https://soundcloud.com/someyear](https://soundcloud.com/someyear)
 
-- 🎶 My Music      [https://soundcloud.com/someyear](https://soundcloud.com/someyear)
+- 📫 Contact me : **samir.ibrahim@outlook.it**
 
-- 📫 Contact me :      **    samir.ibrahim@outlook.it**
-
-- 🤡 Fun fact :      **    I do voice impressions**
+- 🤡 Fun fact : **I do voice impressions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidev86&show_icons=true&locale=en" alt="sidev86" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidev86&" alt="sidev86" /></p>
+
+
