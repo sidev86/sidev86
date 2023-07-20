@@ -1,4 +1,10 @@
-### Hi there 👋
+Samir Ibrahim's Github
+
+Status: Currently Student at 42 Florence
+Hobbies: Game Development / Music Production
+My Games -> https://someyear.itch.io/
+My Music -> https://soundcloud.com/someyear
+
 
 <!--
 **sidev86/sidev86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
