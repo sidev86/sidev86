@@ -1,5 +1,5 @@
-<h1 align="center">💻 🕹️ Welcome to my Github Page</h1>
-<h3 align="center">Coder / Game Developer</h3>
+<h1 align="center">💻 🕹 Welcome to my Github Page 🕹 💻 </h1>
+<h3 align="center">I code and make games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidev86&label=Profile%20views&color=0e75b6&style=flat" alt="sidev86" /> </p>
 
