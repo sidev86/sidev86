@@ -1,5 +1,5 @@
-<h1 align="center">Hi everyone </h1>
-<h3 align="center">Coding games and some other stuff</h3>
+<h1 align="center">Coding games and some other stuff</h1>
+
 
 
 
