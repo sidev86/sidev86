@@ -6,7 +6,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" /></a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
