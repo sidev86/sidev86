@@ -1,7 +1,8 @@
 <h1 align="center">Code Learner</h1>
 
+![vaporpalm](https://github.com/sidev86/sidev86/assets/84662823/a5e4445c-3eb9-4af1-b02d-82d720a7e33b)
 
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fr5djlxcys6o71.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 
 - 💻 Current Status : **Student at 42 Florence**
 
