@@ -1,7 +1,8 @@
 <h1 align="center">Code Learner</h1>
-<div>
-![vaporpalm](https://github.com/sidev86/sidev86/assets/84662823/a5e4445c-3eb9-4af1-b02d-82d720a7e33b)
-</div>
+
+
+![synth_tunnel](https://github.com/sidev86/sidev86/assets/84662823/8f644285-6136-417f-aee0-4330a0afd4e0)
+
 
 
 - 💻 Current Status : **Student at 42 Florence**
