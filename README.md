@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone </h1>
 <h3 align="center">Coding games and some other stuff</h3>
 
-
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/IUbIhbDiaWZsMhC4tC/video" width="480"></iframe></div>
 
 - 💻 Current Status : **Student at 42 Florence**
 
