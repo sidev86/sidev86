@@ -3,7 +3,7 @@
 
 ![synth_tunnel](https://github.com/sidev86/sidev86/assets/84662823/8f644285-6136-417f-aee0-4330a0afd4e0)
 
-[![<sibrahim>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<sibrahim>)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" /></a>
 
 - 💻 Current Status : **Student at 42 Florence**
 
