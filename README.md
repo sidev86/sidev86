@@ -1,6 +1,6 @@
 <h1 align="center">Code Learner</h1>
 
-<p align="center">![vaporpalm](https://github.com/sidev86/sidev86/assets/84662823/a5e4445c-3eb9-4af1-b02d-82d720a7e33b)</p>
+![vaporpalm](https://github.com/sidev86/sidev86/assets/84662823/a5e4445c-3eb9-4af1-b02d-82d720a7e33b)
 
 
 
