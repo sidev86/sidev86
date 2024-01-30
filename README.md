@@ -1,5 +1,5 @@
 <h1 align="center">Hi! Welcome to my github</h1>
-<h3 align="center">I'm a code learner and i like all the programming stuff relative to games and graphics<3</h3>
+<h3 align="center">I'm a code learner and i like all the programming stuff relative to games and graphics ✨</h3>
 <div align="center">
   
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
