@@ -6,17 +6,9 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" /></a>
 </div>
 
-- 💻 Current Status : **Student at 42 Florence**
 
-- 🤔 Currently learning **C programming, Unity Engine**
+**samir.ibrahim@outlook.it**
 
-- 🕹️ My Games : [https://someyear.itch.io/](https://someyear.itch.io/)
-
-- 🎶 My Music : [https://soundcloud.com/someyear](https://soundcloud.com/someyear)
-
-- 📫 Contact me : **samir.ibrahim@outlook.it**
-
-- 🤡 Fun fact : **I do voice impressions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
