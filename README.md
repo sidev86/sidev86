@@ -1,7 +1,7 @@
 <h1 align="center">Code Learner</h1>
 
 
-<img src="https://giphy.com/embed/H89MuX6cQkVCcnyc9V" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://giphy.com/embed/H89MuX6cQkVCcnyc9V" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 - 💻 Current Status : **Student at 42 Florence**
 
