@@ -1,4 +1,4 @@
-<h1 align="center">Coding games and some other stuff</h1>
+<h1 align="center">Coding learner</h1>
 
 
 
