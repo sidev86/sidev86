@@ -1,7 +1,7 @@
 <h1 align="center">Code Learner</h1>
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/The.Matrix.glmatrix.2.png" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fr5djlxcys6o71.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 💻 Current Status : **Student at 42 Florence**
 
