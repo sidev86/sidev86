@@ -4,7 +4,7 @@
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8&theme=gotham)
 
