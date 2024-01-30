@@ -1,4 +1,4 @@
-<h1 align="center">Coding learner</h1>
+<h1 align="center">Key typer and luminous devices contemplator</h1>
 
 
 
