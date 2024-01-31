@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8&theme=dracula)
 
-<h3><a href="https://github.com/sidev86/42projects" align="left">42 projects</a></h3>
+<h3 align="left"><a href="https://github.com/sidev86/42projects">My 42 projects</a></h3>
 
 </div>
 
