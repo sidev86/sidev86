@@ -9,6 +9,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8&theme=dracula)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <h3 align="left"><a href="https://github.com/sidev86/42projects">My 42 projects</a></h3>
 
