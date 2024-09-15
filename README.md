@@ -1,5 +1,5 @@
 <h1 align="center">Hi! Welcome to my github</h1>
-<br><br>
+<br>
 <h3 align="center">I'm a code learner. Love visual and audio stuff related</h3>
 <div align="center">
   
