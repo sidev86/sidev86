@@ -27,6 +27,6 @@
 
 
 <a href="mailto:samir.ibrahim@outlook.it">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" alt="email icon" height="40" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/fb5384/new-post.png" alt="email icon" height="40" width="40"/>
 </a>
 
