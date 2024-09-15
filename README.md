@@ -4,14 +4,10 @@
   
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="display: flex; align-items: center;">
-    <img src="https://badge.mediaplus.ma/starryblue/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" style="margin-right: 20px;" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8&theme=dracula" alt="Top Langs" />
-  </div>
-</div>
+<br><br><br>
+<img src="https://badge.mediaplus.ma/starryblue/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" />
+<br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8&theme=dracula)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,6 +16,8 @@
 </p>
 
 <h3 align="left"><a href="https://github.com/sidev86/42projects">My 42 projects</a></h3>
+
+</div>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
