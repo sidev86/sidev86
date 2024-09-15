@@ -23,4 +23,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 
-**samir.ibrahim@outlook.it**
+<a href="mailto:samir.ibrahim@outlook.it">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="email icon" height="40" width="40"/>
+</a>
+
