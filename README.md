@@ -10,12 +10,12 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 <div align="center">  
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
-</div>
+
 <br><br>
 <img src="https://badge.mediaplus.ma/starryblue/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" />
 <br><br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8&theme=dracula)
-
+</div>
 <br><br>
 <p align="center">
   <a href="https://skillicons.dev">
