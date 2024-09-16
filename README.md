@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Samir 👋</h1>
 
-<div align="center">  
-![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
-</div>
+
 <h2>About me</h2>
 Currently student at 42 Firenze, aspiring to start a career as a software developer.<br> I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.
 <br><br>
@@ -10,7 +8,9 @@ I develop videogames and produce music as a hobby, combining my love for technol
 <br><br>
 Feel free to explore my repositories and reach out if you'd like to collaborate or learn more!
 
-
+<div align="center">  
+![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
+</div>
 <br><br>
 <img src="https://badge.mediaplus.ma/starryblue/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" />
 <br><br><br><br>
