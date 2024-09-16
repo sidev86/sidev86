@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Samir</h1>
+<h1 align="center">Hi, I'm Samir👋</h1>
 
-Hi, I'm Samir 👋<br>
 I'm currently a programming student at 42 Firenze, aspiring to start a career as a software developer. I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.
 <br>
 In addition to my studies, I develop video games and produce music as a hobby, combining my love for technology with artistic expression.
