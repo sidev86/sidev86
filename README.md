@@ -11,8 +11,24 @@
 </ul>
 
 
-
-
+<h2>Languages</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
+  </a>
+</p>
+<h2>Game Development & Audio</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,godot,ableton" />
+  </a>
+</p>
+<h2>Other</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,vscode,git,bash,linux,docker" />
+  </a>
+</p>
 
 <br><div align="center"><br>
 <img src="https://badge.mediaplus.ma/starryblue/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" />
@@ -20,11 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidev86&langs_count=8&theme=dracula)
 </div>
 <br><br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,git,vim,vscode,unity,godot,ableton" />
-  </a>
-</p>
+
 <h3 align="left"><a href="https://github.com/sidev86/42projects">My 42 projects</a></h3>
 
 
