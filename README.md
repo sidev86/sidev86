@@ -38,8 +38,9 @@
 </div>
 <br><br>
 
-<h3 align="left"><a href="https://github.com/sidev86/42projects">My 42 projects</a></h3>
 
+<h3 align="left"><a href="https://github.com/sidev86/42projects">My 42 projects</a></h3>
+<h3 align="left"><a href="https://sidev86.github.io">Website</a></h3>
 
 
 <br>
