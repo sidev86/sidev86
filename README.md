@@ -8,7 +8,7 @@ I develop videogames and produce music as a hobby, combining my love for technol
 <br><br>
 Feel free to explore my repositories and reach out if you'd like to collaborate or learn more!
 
-<div align="center">  
+
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
 
 <br><br>
