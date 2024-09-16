@@ -5,12 +5,11 @@
 </div>
 <h2>About me</h2>
 <li>
-<ul>Currently student at 42 Firenze, aspiring to start a career as a software developer. </ul>
-<ul>I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.</ul>
-<ul>I develop videogames and produce music as a hobby, combining my love for technology with artistic expression.</ul>
+  <ul>Currently student at 42 Firenze, aspiring to start a career as a software developer.</ul>
+  <ul>I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.</ul>
+  <ul>I develop videogames and produce music as a hobby, combining my love for technology with artistic expression.</ul>
 </li>
-<br><br>
-Feel free to explore my repositories and reach out if you'd like to collaborate or learn more!
+
 
 
 
