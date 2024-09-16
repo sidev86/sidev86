@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Samir 👋</h1>
 
+<h2>About me</h2>
 I'm currently a programming student at 42 Firenze, aspiring to start a career as a software developer.<br> I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.
 <br><br>
 I develop videogames and produce music as a hobby, combining my love for technology with artistic expression.
