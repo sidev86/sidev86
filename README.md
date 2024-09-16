@@ -11,7 +11,7 @@
 </ul>
 
 <br><br>
-<h2>Skillset</h2>
+<h2>Core Competencies</h2>
 <h3>Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
