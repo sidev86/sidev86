@@ -10,20 +10,21 @@
   <li>I develop videogames and produce music as a hobby, combining my love for technology with artistic expression.</li>
 </ul>
 
-
-<h2>Languages</h2>
+<br><br>
+<h2>Skillset</h2>
+<h3>Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
   </a>
 </p>
-<h2>Game Development & Audio</h2>
+<h3>Game Development & Audio</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,godot,ableton" />
   </a>
 </p>
-<h2>Other</h2>
+<h3>Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,vscode,git,bash,linux,docker" />
