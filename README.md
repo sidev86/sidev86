@@ -12,19 +12,19 @@
 
 
 <h2>Languages</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
   </a>
 </p>
 <h2>Game Development & Audio</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,godot,ableton" />
   </a>
 </p>
 <h2>Other</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,vscode,git,bash,linux,docker" />
   </a>
