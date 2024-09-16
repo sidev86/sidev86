@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Samir</h1>
-<br>
-<h3 align="center">
-Hi, I'm Samir 👋
+
+Hi, I'm Samir 👋<br>
 I'm currently a programming student at 42 Firenze, aspiring to start a career as a software developer. I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.
-
+<br>
 In addition to my studies, I develop video games and produce music as a hobby, combining my love for technology with artistic expression.
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or learn more!</h3>
+<br><br>
+Feel free to explore my repositories and reach out if you'd like to collaborate or learn more!
 <div align="center">
   
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
