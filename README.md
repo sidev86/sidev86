@@ -4,11 +4,11 @@
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
 </div>
 <h2>About me</h2>
-<li>
-  <ul>Currently student at 42 Firenze, aspiring to start a career as a software developer.</ul>
-  <ul>I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.</ul>
-  <ul>I develop videogames and produce music as a hobby, combining my love for technology with artistic expression.</ul>
-</li>
+<ul>
+  <li>Currently student at 42 Firenze, aspiring to start a career as a software developer.</li>
+  <li>I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.</li>
+  <li>I develop videogames and produce music as a hobby, combining my love for technology with artistic expression.</li>
+</ul>
 
 
 
