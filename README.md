@@ -2,7 +2,6 @@
 
 <div align="center">  
 ![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
-</div>
 <h2>About me</h2>
 Currently student at 42 Firenze, aspiring to start a career as a software developer.<br> I'm passionate about everything creative that intersects with coding, especially visual and audio-related projects.
 <br><br>
