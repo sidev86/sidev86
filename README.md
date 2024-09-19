@@ -7,7 +7,7 @@
 <ul>
   <li>Currently student at 42 Firenze, aspiring to start a career as a software developer.</li>
   <li>I'm passionate about everything creative that intersects with coding, especially visual and audio.</li>
-  <li>I develop videogames and produce music as a hobby, combining my love for technology with artistic expression.</li>
+  <li>I develop videogames and produce music as a hobby, combining my love for technology used as an artistic form of expression.</li>
 </ul>
 
 <br><br>
