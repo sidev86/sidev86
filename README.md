@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Samir 👋 <br>Welcome to my github page </h1>
-
+[vapor_passingby_mountains](https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz)
 <!--![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)-->
 </div>
 <h2>About me</h2>
