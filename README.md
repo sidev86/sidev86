@@ -1,7 +1,7 @@
 <div align="center">
 <!--![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)-->
 </div>
-<h1>✨ Exploring code, one project at a time ✨<br>Hi, Welcome!</h1>
+<h1>✨ Welcome ✨</h1>
 <h2>About me</h2>
 I'm currently a programming student at 42 Firenze, looking to start a new career as a software developer. I like making code because i'm always fascinated with the idea of shaping my imagination, weaving dreams into reality, and turning thoughts into an experience for others to share. I also make some music and develop videogames in my spare time, combining my love for making art, express myself using technology.
 
