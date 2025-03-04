@@ -3,7 +3,7 @@
 </div>
 <h1>✨ Welcome ✨</h1>
 <h2>About me</h2>
-I'm currently a programming student at 42 Firenze, looking to start a new career as a software developer. I like making code because i'm always fascinated with the idea of shaping my imagination, weaving dreams into reality, and turning thoughts into an experience to share. I also make some music and develop videogames in my spare time, combining my love for making art, express myself using technology.
+I'm currently a programming student at 42 Firenze, looking to start a new career as a software developer. I like making code because i'm always fascinated with the idea of shaping my imagination, weaving dreams into reality, and turning thoughts into an experience to share. I also love making some music and develop videogames in my spare time, blending my desire to express myself using technology.
 
 
 
