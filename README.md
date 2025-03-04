@@ -4,11 +4,9 @@
 <!--![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)-->
 </div>
 <h2>About me</h2>
-<ul>
-  <li>Currently student at 42 Firenze, aspiring to start a career as a software developer.</li>
-  <li>I'm passionate about everything creative that intersects with coding, especially visual and audio.</li>
-  <li>I develop videogames and produce music as a hobby, combining my love for technology with art as a form of expression.</li>
-</ul>
+
+Currently a programming student at 42 Firenze. I like making code because i'm always fascinated with the idea of shaping my imagination, weaving dreams into reality, and turning thoughts into an experience for others to share. I also make some music and develop videogames in my spare time, combining my love for making art, express myself using technology.
+
 
 <br><br>
 <h2>Core Competencies</h2>
