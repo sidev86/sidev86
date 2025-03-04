@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi there! 👋 <br>Welcome to my github page </h1>
+<h1 align="center"> Welcome to my github page </h1>
 <br><br>  
 <!--![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)-->
 </div>
 <h2>About me</h2>
 
-Currently a programming student at 42 Firenze. I like making code because i'm always fascinated with the idea of shaping my imagination, weaving dreams into reality, and turning thoughts into an experience for others to share. I also make some music and develop videogames in my spare time, combining my love for making art, express myself using technology.
+Currently a programming student at 42 Firenze. I like making code because i'm always fascinated with the idea of shaping my imagination, weaving dreams into reality, and turning thoughts into an experience for others to share. I also make some music and develop videogames in my spare time, combining my love for making art, express myself by using machines.
 
 
 <br><br>
