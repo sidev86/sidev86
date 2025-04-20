@@ -3,9 +3,8 @@
 </div>
 <h1>✨ Welcome ✨</h1>
 <h2>About me</h2>
-I'm a software developer with a strong foundation in C, C++, and Python, currently expanding my skills in web development. I have hands-on experience building projects that enhance my understanding of low-level programming and object-oriented design. I'm passionate about writing maintainable, reusable code and solving complex problems through structured, thoughtful solutions.
-
-I'm actively seeking job opportunities where I can contribute to real-world applications, grow within a collaborative team, and continuously improve my skills as a developer.
+<p>I'm a software developer with a strong foundation in C, C++, and Python, currently expanding my skills in web development. I have hands-on experience building projects that enhance my understanding of low-level programming and object-oriented design. I'm passionate about writing maintainable, reusable code and solving complex problems through structured, thoughtful solutions.</p>
+<p>I'm actively seeking job opportunities where I can contribute to real-world applications, grow within a collaborative team, and continuously improve my skills as a developer.</p>
 
 
 
