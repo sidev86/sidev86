@@ -13,7 +13,7 @@
 <h3>Core competencies</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap" />
   </a>
 </p>
 
