@@ -3,7 +3,10 @@
 </div>
 <h1>✨ Welcome ✨</h1>
 <h2>About me</h2>
-I'm currently a programming student at 42 Firenze, looking to start a new career as a software developer. I like making code because i'm always fascinated with the idea of shaping my imagination, weaving dreams into reality, and turning thoughts into an experience to share. I also love making some music and develop videogames in my spare time, blending my desire to express myself with the use of technology as medium.
+I'm a software developer with a strong foundation in C, C++, and Python, currently expanding my skills into web development.
+I have experience building projects that deepen my understanding of low-level programming and object-oriented design. I’m passionate about writing maintainable and reusable code and solving complex problems with structured and thoughtful solutions.
+
+I’m currently seeking job opportunities where I can contribute to real-world applications, grow within a collaborative team, and continue improving my skills as a developer.
 
 
 
