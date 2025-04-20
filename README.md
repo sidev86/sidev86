@@ -9,19 +9,14 @@ I'm currently a programming student at 42 Firenze, looking to start a new career
 
 
 <br><br>
-<h2>Core Competencies</h2>
-<h3>Languages</h3>
+<h2>My skillset</h2>
+<h3>Core competencies</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js" />
   </a>
 </p>
-<h3>Game Development & Audio</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,ableton" />
-  </a>
-</p>
+
 <h3>Other</h3>
 <p align="left">
   <a href="https://skillicons.dev">
