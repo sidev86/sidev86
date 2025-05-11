@@ -3,7 +3,7 @@
 </div>
 <h1>Hi! Welcome to my github page 👋</h1>
 <h2>About me</h2>
-<p>I'm a software developer with hands-on experience in C/C++ programming, Linux systems, and web development. I enjoy working on projects that combine technical precision with creative problem-solving, always aiming for clean, efficient, and maintainable code.</p>
+<p>I'm a junior software engineer with hands-on experience in C/C++ programming, Linux systems, and web development. I enjoy working on projects that combine technical precision with creative problem-solving, always aiming for clean, efficient, and maintainable code.</p>
 
 <p>My skills include:</p>
 
