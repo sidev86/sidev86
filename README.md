@@ -19,19 +19,34 @@
 
 <br><br>
 <h2>My skillset</h2>
-<h3>Languages/Frameworks</h3>
+<h3>Main Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
+  </a>
+</p>
+
+<h3>Web Dev</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
   </a>
 </p>
 
 <h3>Other tech stuff</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,vscode,git,bash,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,docker" />
   </a>
 </p>
+
+<h3>IDE</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,vscode" />
+  </a>
+</p>
+
 
 <br><div align="center"><br>
 <img src="https://badge.mediaplus.ma/starryblue/sibrahim?1337Badge=off&UM6P=off" alt="sibrahim's 42 stats" />
