@@ -19,14 +19,14 @@
 
 <br><br>
 <h2>My skillset</h2>
-<h3>Core competencies</h3>
+<h3>Languages/Frameworks</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap" />
   </a>
 </p>
 
-<h3>Other</h3>
+<h3>Other tech stuff</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,vscode,git,bash,linux,docker" />
