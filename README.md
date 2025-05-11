@@ -12,7 +12,7 @@
   <li>Linux shell scripting and process automation with Bash</li>
   <li>Docker for environment and application containerization</li>
   <li>Web Development (HTML, CSS, Vanilla Javascript) - SPA Websites</li>
-  <li>Solo project development && collaborative team projects</li>
+  <li>Solo project development + collaborative team projects</li>
 </ul>
 
 
