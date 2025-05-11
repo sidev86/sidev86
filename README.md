@@ -3,8 +3,19 @@
 </div>
 <h1>✨ Welcome ✨</h1>
 <h2>About me</h2>
-<p>I'm a software developer with a strong foundation in C, C++, and Python, currently expanding my skills in web development. I have hands-on experience building projects that enhance my understanding of low-level programming and object-oriented design. I'm passionate about writing maintainable, reusable code and solving complex problems through structured, thoughtful solutions.</p>
-<p>I'm actively seeking job opportunities where I can contribute to real-world applications, grow within a collaborative team, and continuously improve my skills as a developer.</p>
+<p>I'm a software developer with hands-on experience in C/C++ programming, Linux systems, and web development. I enjoy working on projects that combine technical precision with creative problem-solving, always aiming for clean, efficient, and maintainable code.
+
+My skills include:
+
+Low-level programming in C/C++ (algorithms, data structures)
+
+Linux shell scripting and process automation with Bash
+
+Docker for environment and application containerization
+
+Web development (HTML, CSS, JavaScript, Ruby – SPA design)
+
+Collaborative and solo project development</p>
 
 
 
