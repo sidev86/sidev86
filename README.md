@@ -11,7 +11,7 @@
   <li>Low-level programming in C/C++ (algorithms, data structures)</li>
   <li>Linux shell scripting and process automation with Bash</li>
   <li>Docker for environment and application containerization</li>
-  <li>Web development (HTML, CSS, JavaScript, Ruby) - SPA website</li>
+  <li>Web Development (HTML, CSS, Vanilla Javascript) - SPA Websites</li>
   <li>Solo project development && collaborative team projects</li>
 </ul>
 
