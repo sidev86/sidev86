@@ -3,19 +3,17 @@
 </div>
 <h1>Hi! Welcome to my github page 👋</h1>
 <h2>About me</h2>
-<p>I'm a software developer with hands-on experience in C/C++ programming, Linux systems, and web development. I enjoy working on projects that combine technical precision with creative problem-solving, always aiming for clean, efficient, and maintainable code.
+<p>I'm a software developer with hands-on experience in C/C++ programming, Linux systems, and web development. I enjoy working on projects that combine technical precision with creative problem-solving, always aiming for clean, efficient, and maintainable code.</p>
 
-My skills include:
+<p>My skills include:</p>
 
-Low-level programming in C/C++ (algorithms, data structures)
-
-Linux shell scripting and process automation with Bash
-
-Docker for environment and application containerization
-
-Web development (HTML, CSS, JavaScript, Ruby – SPA design)
-
-Collaborative and solo project development</p>
+<ul>
+  <li>Low-level programming in C/C++ (algorithms, data structures)</li>
+  <li>Linux shell scripting and process automation with Bash</li>
+  <li>Docker for environment and application containerization</li>
+  <li>Web development (HTML, CSS, JavaScript, Ruby) - SPA website</li>
+  <li>Solo project development && collaborative team projects</li>
+</ul>
 
 
 
