@@ -24,7 +24,7 @@
 <h3>Main Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py" />
   </a>
 </p>
 
