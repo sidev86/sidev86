@@ -15,7 +15,7 @@
   <li>Solo project development + collaborative team projects</li>
 </ul>
 
-<p>I also really enjoy making <a href="https://someyear.itch.io/">videogames</a>, <a href="https://soundcloud.com/someyear">music</a> and skateboarding/p>
+<p>I particularly love making <a href="https://someyear.itch.io/">videogames</a>, <a href="https://soundcloud.com/someyear">music</a> and skateboarding</p>
 
 
 
