@@ -38,10 +38,16 @@
 <h3>Game Engines</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,godot" />
   </a>
 </p>
 
+<h3>Music/Audio</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton" />
+  </a>
+</p>
 
 <h3>Other tech stuff</h3>
 <p align="left">
