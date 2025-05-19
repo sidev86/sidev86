@@ -35,6 +35,14 @@
   </a>
 </p>
 
+<h3>Game Engines</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity, gamemakerstudio" />
+  </a>
+</p>
+
+
 <h3>Other tech stuff</h3>
 <p align="left">
   <a href="https://skillicons.dev">
