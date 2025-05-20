@@ -1,21 +1,11 @@
 <div align="center">
   <!--![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)-->
 </div>
-<h1>✨ Welcome ✨</h1>
+<h1>✨ Hi! Welcome ✨</h1>
 <h2>About me</h2>
-<p>I'm a junior software developer with hands-on experience in C/C++ programming, Linux systems, and web development. I enjoy working on projects that combine technical precision with creative problem-solving, always aiming for clean, efficient, and maintainable code.</p>
+<p>I'm a junior software developer with hands-on experience in C/C++ programming and web development. I enjoy working on projects that combine the technical with the creative side. In particular I like the idea of ​​exploiting technology to create visual and audio experiences.</p>
 
-<p>My skills include:</p>
-
-<ul>
-  <li>Low-level programming in C/C++ (algorithms, data structures)</li>
-  <li>Linux shell scripting and process automation with Bash</li>
-  <li>Docker for environment and application containerization</li>
-  <li>Web Development (HTML, CSS, Vanilla Javascript) - SPA Websites</li>
-  <li>Solo project development + collaborative team projects</li>
-</ul>
-
-<p>I particularly love making <a href="https://someyear.itch.io/">videogames</a>, <a href="https://soundcloud.com/someyear">music</a> and skateboarding</p>
+<p>Since I like the creative/artistic tech side of things, I love making <a href="https://someyear.itch.io/">videogames</a> and <a href="https://soundcloud.com/someyear">music.</a></p>
 
 
 
