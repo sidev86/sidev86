@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h3>Game Engines</h3>
+<h3>Game Dev</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,godot" />
