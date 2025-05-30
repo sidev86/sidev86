@@ -46,10 +46,10 @@
   </a>
 </p>
 
-<h3>IDE</h3>
+<h3>IDE/Code Editor</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim" />
   </a>
 </p>
 
