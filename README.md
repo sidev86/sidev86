@@ -42,14 +42,7 @@
 <h3>Other tech stuff</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,linux,docker" />
-  </a>
-</p>
-
-<h3>IDE/Code Editor</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,docker,vscode,vim" />
   </a>
 </p>
 
