@@ -21,14 +21,14 @@
 <h3>Web Dev</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
   </a>
 </p>
 
 <h3>Game Dev</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,godot" />
+    <img src="https://skillicons.dev/icons?i=unity,gamemakerstudio" />
   </a>
 </p>
 
