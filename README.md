@@ -3,7 +3,7 @@
 </div>
 <h1>✨ Hi! Welcome ✨</h1>
 <h2>About me</h2>
-<p>I'm a junior software developer with hands-on experience in C/C++ programming and web development. I enjoy working on projects that combine the technical with the creative side. In particular I like the idea of ​​exploiting technology to create visual and audio experiences.</p>
+<p>I’m a developer with a 3-year background in C, C++, and web technologies such as JavaScript, CSS, and React, gained at 42 Firenze, currently focused on full-stack development. Throughout my studies, I developed problem-solving skills and experience working at projects both independently and in teams. I’m self-motivated, curious, and dedicated to writing clean, readable, and optimized code.</p>
 
 <p>Since I like the creative/artistic tech side of things, I love making <a href="https://someyear.itch.io/">videogames</a> and <a href="https://soundcloud.com/someyear">music.</a></p>
 
