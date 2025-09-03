@@ -1,14 +1,11 @@
-<h1>✨ Hi! Welcome ✨</h1>
+<h1>✨ In the lurch ✨</h1>
 <!-- <h2>About me</h2>
 <p>I’m a developer with a 3-year background in C, C++, and web languages (JavaScript, TypeScript, CSS, React)</p>
 <p>Since I like the creative/artistic tech side of things, I also love making <a href="https://someyear.itch.io/">videogames</a> and <a href="https://soundcloud.com/someyear">music.</a></p> -->
 
 <div align="center">
-![vapor_passingby_mountains](https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d)
+  <img src="https://github.com/sidev86/sidev86/assets/84662823/044c264e-26ae-40a7-8d6d-e6cafddd678d" alt="vapor_passingby_mountains" width="600"/>
 </div>
-
-
-
 
 
 <br><div align="center"><br>
