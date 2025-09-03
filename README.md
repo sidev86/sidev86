@@ -1,4 +1,4 @@
-<h1>✨ In the lurch ✨</h1>
+<h1>In the lurch 🌐✨</h1>
 <!-- <h2>About me</h2>
 <p>I’m a developer with a 3-year background in C, C++, and web languages (JavaScript, TypeScript, CSS, React)</p>
 <p>Since I like the creative/artistic tech side of things, I also love making <a href="https://someyear.itch.io/">videogames</a> and <a href="https://soundcloud.com/someyear">music.</a></p> -->
