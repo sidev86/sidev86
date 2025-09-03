@@ -24,7 +24,7 @@
 
 
 <br>
-<h3 align="left">Contact me</h3>
+
 <p align="left">
 
 
