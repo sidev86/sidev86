@@ -4,7 +4,7 @@
 <p>Since I like the creative/artistic tech side of things, I also love making <a href="https://someyear.itch.io/">videogames</a> and <a href="https://soundcloud.com/someyear">music.</a></p> -->
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ExaDE0N2E0YTRuYXlicmVudWNuNTh4dDh6czE0aHlncW50bnpnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ZsHm0z5QwSYpV7g01/giphy.gif" alt="vapor_passingby_mountains" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ExaDE0N2E0YTRuYXlicmVudWNuNTh4dDh6czE0aHlncW50bnpnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ZsHm0z5QwSYpV7g01/giphy.gif" alt="synthwave_green_wave" width="800"/>
 </div>
 
 
